@@ -1,0 +1,22 @@
+echo "################################################"
+echo "#                                              #"
+echo "#              Genetic Correlation             #"
+echo "#                                              #"
+echo "#  2021.11.12       Shi Yao & Xin Ke & Hao Wu  #"
+echo "#                                              #"
+echo "################################################"
+echo ""
+
+echo "----------------------------------------"
+echo ""
+echo ">>> sh 1.sumstats_echo.sh"
+echo ">>> sh 2.gc_echo.sh"
+echo ""
+echo "----------------------------------------"
+echo ""
+echo "Calculate GC, input suffix of file: [ma]"
+echo ">>> SNP A1 A2 EAF BETA SE P N"
+echo ""
+echo "----------------------------------------"
+
+mkdir -p zzz.log
